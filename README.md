@@ -1,4 +1,4 @@
-BAYESIAN MATTING - GROUP : 4K
+#BAYESIAN MATTING 
 
 This project implements the Bayesian Matting technique described in Yung-Yu Chuang, Brian Curless, David H. Salesin and Richard Szeliski. A Bayesian Approach to Digital Matting. In Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR 2001), Vol. II, 264-271, December 2001 [1].
 Our implementation is slight different from Paper :
