@@ -15,7 +15,7 @@ Running the DEMO :
 - Download 'Byaesian Matting' folder
 - Run pip install -r requirements.txt in terminal
 - Add the input, ground-truth and tri-map images into the input folder
-- Run the 'Main.py' in the terminal (It is recommended to run this on anaconda prompt)
+- Run the 'Main.py' in the terminal 
 - Insert the name of the images according to the input prompt (don't need to add path, it will read the input folder's path)
 - The final result will be generation of five output images that will be stored in the output folder
 - The performance metrics for the input images will be displayed
