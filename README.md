@@ -1,4 +1,4 @@
-##BAYESIAN MATTING 
+# BAYESIAN MATTING 
 
 This project implements the Bayesian Matting technique described in Yung-Yu Chuang, Brian Curless, David H. Salesin and Richard Szeliski. A Bayesian Approach to Digital Matting. In Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR 2001), Vol. II, 264-271, December 2001 [1].
 Our implementation is slight different from Paper :
@@ -13,7 +13,7 @@ We test the performance of our algorithm using three performance metrics viz. MS
 
 Running the DEMO : 
 - Download 'Byaesian Matting' folder
-- Run pip install -r requirements.txt 
+- Run `pip install -r requirements.txt`
 - Add the input, ground-truth and tri-map images into the input folder
 - Run the 'Main.py' in the terminal 
 - Insert the name of the images according to the input prompt (don't need to add path, it will read the input folder's path)
